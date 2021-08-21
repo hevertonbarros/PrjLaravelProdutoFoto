@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class EnderecoController extends Controller
 {
     
-    
+    fsdfdsfsdfdsfdsfdsfdsf
     
     /**
      * Display a listing of the resource.
